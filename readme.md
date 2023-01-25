@@ -1,1 +1,1 @@
-Triggering Jenkins via Githun repo update
+Triggering Jenkins Build from push to repo
